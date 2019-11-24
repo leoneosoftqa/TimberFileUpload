@@ -1,0 +1,20 @@
+TC-1: Check files upload is accepting PDF or DOC files
+TC-2: Check files upload in not accepting image
+TC-3: Check if the title of the page is 'Add Files' sames as the name of the page
+TC-4: Check if user has a way able to go back to Files -> Home page
+TC-5: Check if top ribbon, meu links and footer are available
+TC-6: Check files upload is accepting only limited file size
+TC-7: Check if there is a limit to uploading a number of files
+TC-8: Check if user is able to drag a file to upload
+TC-9: Check if user is able to upload file using the windows file upload popup
+TC-10: Check Continue button is available only after file upload is complete and correct
+TC-11: Check if the success toast notification appears as 'File Manager - Uploaded files' 
+TC-12: Check File is not uploaded to server until user click continue 
+TC-13: Check Red cross appear beside the uploaded file if the format is not as expected
+TC-14: Check Green cross appear beside the uploaded file if the format as expected
+TC-15: Check Loading appear beside the uploaded file when uploading is in progress
+TC-16: Check if user is redirected to update file page if file upload is successful
+TC-17: Check if Continue button remains disabled and corss icon appears beside the uploaded file with a appropriate when file upload is not successful
+TC-18: Check if the breadcrumb shows the 'Add file' with a correctly sequence of preceding pages
+TC-19: Check uploaded file appears in the file list on the Files  -> Home page
+TC-20: Check if the file can be deleted
